@@ -1,8 +1,67 @@
 h4 {
-  color:;
+  color:darkgreen !important;
+  font-family: serif;
 }
 
-. imgme {
+.imgme {
     object-fit: cover;
     height: 157px;
+}
+
+.img-fluid {
+  object-fit: cover;
+    height: 302px;
+    width: 351px;
+    /* border-radius: 50rem; */
+}
+
+.img-about {
+  object-fit: cover;
+    height: 156px;
+    width: 156px;
+}
+
+/* .text-green {
+  color: blue;
+  font-size: 18px;
+} */
+
+.bg-light {
+  background-color: rgb(138, 182, 138) !important;
+}
+
+body {
+  background-color: rgb(228, 241, 200);
+}
+
+h2 {
+  color: rgb(241, 23, 169);
+  font-size: 50px !important;
+}
+
+.text-muted {
+  color: #fff !important;
+}
+
+.text-about {
+  color: #41464b;
+}
+
+section#contact {
+  background-image: url(../img/IMG_2879.jpg);
+  opacity: 0.7;
+}
+
+body {
+  color: white;
+}
+
+.text-center {
+  text-align: center!important;
+}
+
+.img-portfolio {
+  object-fit: cover;
+    height: 302px;
+    width: 351px;
 }
