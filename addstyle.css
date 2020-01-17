@@ -17,8 +17,8 @@ h4 {
 
 .img-about {
   object-fit: cover;
-    height: 156px;
-    width: 156px;
+    height: 100%;
+    width: 100%;
 }
 
 /* .text-green {
